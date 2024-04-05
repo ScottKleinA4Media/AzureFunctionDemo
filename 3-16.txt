@@ -1,0 +1,3 @@
+AB#18515 commercial as an external user who selects an advertiser with cash in advance payment terms i want to see my payment options
+
+Addition of credit or cash selection dialog prior to processing payment. Check is performed for "cash in advance" account credit status prior to dialog display. If "apply for credit" is selected by user, redirection will take user to a third party site (currently link is not available).
